@@ -4,7 +4,7 @@ permalink: "/team/"
 layout: page
 ---
 
-# Meet the team
+## Meet the team
 
 <h2 style="text-align: center;">Benny Trieu</h2>
 
