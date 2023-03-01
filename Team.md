@@ -4,8 +4,6 @@ permalink: "/team/"
 layout: page
 ---
 
-## Meet the team
-
 <h2 style="text-align: center;">Benny Trieu</h2>
 
 ![Benny pic](https://avatars.githubusercontent.com/u/76574420?v=4)
