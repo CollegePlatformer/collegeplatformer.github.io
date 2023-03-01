@@ -6,19 +6,19 @@ layout: page
 
 # Meet the team
 
-<p style="text-align: center;">## Benny Trieu</P>
+<h2 style="text-align: center;">Benny Trieu</h2>
 
 ![Benny pic](https://avatars.githubusercontent.com/u/76574420?v=4)
 
 Making up contributions to a project is unethical and could ultimately harm the success of the project. It is important to be honest about your contributions and to communicate with your team members if you are having difficulty meeting your obligations.
 
-<p style="text-align: center;">## John Suelen</P>
+<h2 style="text-align: center;">John Suelen</h2>
 
 ![John pic](https://cdn.discordapp.com/attachments/439263167013584898/1080380362338881626/asd.jpg)
 
 It is never acceptable to fabricate updates for a project. Honesty and transparency are crucial to the success of any project, and fabricating updates can damage the credibility of the project and harm the trust between team members.
 
-<p style="text-align: center;">## Michael Sumaylo</P>
+<h2 style="text-align: center;">Michael Sumaylo</h2>
 
 ![Michael pic](https://avatars.githubusercontent.com/u/97885062?v=4)
 
