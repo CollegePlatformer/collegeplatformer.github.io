@@ -3,78 +3,26 @@ layout: page
 title: "Home"
 ---
 
-## Heading Two (h2)
+![placeholder logo](https://cdn.discordapp.com/attachments/1088056272689049720/1088086755229577226/image.png)
 
-### Heading Three (h3)
+## Wake Up
 
-#### Heading Four (h4)
+Your alarm is going off! You are about to be late to your very important exam. However, when you arrive at school, things are not as they seem...
 
-##### Heading Five (h5)
+Why are there floating books? Is the school really big or are you just really small? What in the world is happening?
 
-###### Heading Six (h6)
+![floating books](https://cdn.discordapp.com/attachments/1088056272689049720/1088092002853322903/image.png)
 
+![school](https://cdn.discordapp.com/attachments/1088056272689049720/1088092513820233789/image.png)
 
-## Blockquotes
+(Additional lore idk)
 
-### Single line
+For some reason, a teacher chases you as you try to get to your classroom while dodging various obstacles and enemies. 
 
-> My mom always said life was like a box of chocolates. You never know what you're gonna get.
+### How to Play
 
-### Multiline
+WASD - Move
 
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
->
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
->
-> – _Hal Incandenza_
+Spacebar - Jump  
 
-## Horizontal Rule
-
----
-
-## Table
-
-| Title 1          | Title 2          | Title 3         | Title 4         |
-|------------------|------------------|-----------------|-----------------|
-| First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
-| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
-| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
-
-## Code
-
-Source code can be included by fencing the code with three backticks. Syntax highlighting works automatically when specifying the language after the backticks.
-
-````
-```javascript
-function foo () {
-    return "bar";
-}
-```
-````
-
-This would be rendered as:
-
-```javascript
-function foo () {
-    return "bar";
-}
-```
-
-## Lists
-
-### Unordered
-
-* First item
-* Second item
-* Third item
-    * First nested item
-    * Second nested item
-
-### Ordered
-
-1. First item
-2. Second item
-3. Third item
-    1. First nested item
-    2. Second nested item
+Z - Shoot
