@@ -1,5 +1,5 @@
 ---
 title: "Game"
-permalink: "/game/"
+permalink: "/Procrastidreamer-Game/"
 layout: page
 ---
