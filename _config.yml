@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
   - {file: "Team.md"}
+  - {file: "Game.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/CollegePlatformer/CollegePlatformer"}
