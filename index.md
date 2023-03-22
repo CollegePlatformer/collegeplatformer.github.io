@@ -26,3 +26,7 @@ WASD - Move
 Spacebar - Jump  
 
 Z - Shoot
+
+## Try out the game now!
+
+[Procrastidreamer Game](https://collegeplatformer.github.io/Procrastidreamer-Game/)
