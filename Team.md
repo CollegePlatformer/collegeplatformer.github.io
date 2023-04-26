@@ -4,6 +4,10 @@ permalink: "/team/"
 layout: page
 ---
 
+| Benny Trieu  | Professional Portfolio |
+| ------------- | ------------- |
+| ![Benny pic](https://avatars.githubusercontent.com/u/76574420?v=4)  | [Professional Portfolio](https://bennytrieu.github.io/)  |
+
 <h2 style="text-align: left;">Benny Trieu</h2>
 
 ![Benny pic](https://avatars.githubusercontent.com/u/76574420?v=4) 
