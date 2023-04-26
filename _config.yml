@@ -1,5 +1,5 @@
-title: "College Platformer"
-author: "College Platformer"
+title: "Procrastidreamer"
+author: "Procrastidreamer"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -18,7 +18,6 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {file: "updates.html"}
-  - {file: "README.md"}
   - {file: "Team.md"}
   - {file: "Game.md"}
 
