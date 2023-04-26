@@ -12,7 +12,7 @@ layout: page
   <a href="https://bennytrieu.github.io"><img style="padding-bottom: 10%; padding-left: 10%" src="https://cdn.discordapp.com/attachments/439263167013584898/1100857142359097404/github-mark-white.png"  width="25%"></a>
 </p>
 
-<p style="text-align: center; font-size:18px">Hello world</p>
+<p style="text-align: center; font-size:18px">Hello</p>
 
 
 <br>
