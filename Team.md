@@ -12,7 +12,9 @@ layout: page
   <a href="https://bennytrieu.github.io"><img style="padding-bottom: 10%; padding-left: 10%" src="https://cdn.discordapp.com/attachments/439263167013584898/1100857142359097404/github-mark-white.png"  width="25%"></a>
 </p>
 
-<p style="text-align: center;" style="font-size:16px">Hello</p>
+<center>
+    <p style="font-size:16px">Hello</p>
+</center>
 
 <br>
 <br>
@@ -25,7 +27,9 @@ layout: page
   <a href="https://johnsuelen.github.io"><img style="padding-bottom: 10%; padding-left: 10%" src="https://cdn.discordapp.com/attachments/439263167013584898/1100857142359097404/github-mark-white.png"  width="25%"></a>
 </p>
 
-<p style="text-align: center;" style="font-size:16px">Hello</p>
+<center>
+    <p style="font-size:16px">Hello</p>
+</center>
 
 <br>
 <br>
@@ -39,4 +43,6 @@ layout: page
 ></a>
 </p>
 
-<p style="text-align: center;" style="font-size:16px">Hello</p>
+<center>
+    <p style="font-size:16px">Hello</p>
+</center>
