@@ -4,9 +4,7 @@ permalink: "/team/"
 layout: page
 ---
 
-<a href="mailto: trieu6@hawaii.edu">
-    <h1 style="text-align: center;">Benny Trieu</h1>
-</a>
+<h1 style="text-align: center;"><a href="mailto: trieu6@hawaii.edu">Benny Trieu</a></h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/76574420?v=4" width="45%">
@@ -19,9 +17,7 @@ layout: page
 <br>
 <br>
 
-<a href="mailto: jsuelen@hawaii.edu">
-    <h1 style="text-align: center;">John Suelen</h1>
-</a>
+<h1 style="text-align: center;"><a href="mailto: jsuelen@hawaii.edu">John Suelen</a></h1>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1088056272689049720/1088064639104987186/image.png" width="45%">
@@ -34,9 +30,7 @@ layout: page
 <br>
 <br>
 
-<a href="mailto: msumaylo@hawaii.edu">
-    <h1 style="text-align: center;">Michael Sumaylo</h1>
-</a>
+<h1 style="text-align: center;"><a href="mailto: msumaylo@hawaii.edu">Michael Sumaylo</a></h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/97885062?v=4" width="45%">
