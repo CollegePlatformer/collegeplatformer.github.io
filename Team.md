@@ -12,7 +12,7 @@ layout: page
   <a href="https://bennytrieu.github.io"><img style="padding-bottom: 10%; padding-left: 10%" src="https://cdn.discordapp.com/attachments/439263167013584898/1100857142359097404/github-mark-white.png"  width="25%"></a>
 </p>
 
-<p style="text-align: center; font-size:16px">Hello</p>
+<p style="text-align: center; font-size:18px">Hello</p>
 
 
 <br>
@@ -26,7 +26,7 @@ layout: page
   <a href="https://johnsuelen.github.io"><img style="padding-bottom: 10%; padding-left: 10%" src="https://cdn.discordapp.com/attachments/439263167013584898/1100857142359097404/github-mark-white.png"  width="25%"></a>
 </p>
 
-<p style="text-align: center; font-size:16px">Hello</p>
+<p style="text-align: center; font-size:18px">I was responsible for the environement, various obstacles (thumbtacks, sticky note, collapsing book, eraser), various UI (pause menu, start screen), enemy/NPC roaming, the player model and animations, and the website.</p>
 
 <br>
 <br>
@@ -40,5 +40,5 @@ layout: page
 ></a>
 </p>
 
-<p style="text-align: center; font-size:16px">Hello</p>
+<p style="text-align: center; font-size:18px">Hello</p>
 
