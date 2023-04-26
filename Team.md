@@ -4,6 +4,8 @@ permalink: "/team/"
 layout: page
 ---
 
+<p style="text-align: center; font-size:50px">MicaJoBe</p>
+
 <h1 style="text-align: center;"><a href="mailto: msumaylo@hawaii.edu">Michael Sumaylo</a></h1>
 
 <p style="text-align: center;">
