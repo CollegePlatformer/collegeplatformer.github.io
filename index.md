@@ -20,8 +20,6 @@ For some reason, a teacher chases you as you try to get to your classroom while 
   <source type="video/mp4" src="https://cdn.discordapp.com/attachments/1065448729835999275/1103088315277787158/Procrastidreamer_final_trailer.mp4">
 </video>
 
-<video src='https://cdn.discordapp.com/attachments/1065448729835999275/1103088315277787158/Procrastidreamer_final_trailer.mp4' width=1280/>
-
 ### How to Play
 
 WASD - Move
