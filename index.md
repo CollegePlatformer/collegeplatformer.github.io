@@ -16,7 +16,7 @@ Why are there floating books? Is the school really big or are you just really sm
 
 For some reason, a teacher chases you as you try to get to your classroom while dodging various obstacles and enemies. 
 
-<video width="1280" height="720" controls>
+<video width="900" controls>
   <source type="video/mp4" src="https://cdn.discordapp.com/attachments/1065448729835999275/1103088315277787158/Procrastidreamer_final_trailer.mp4">
 </video>
 
